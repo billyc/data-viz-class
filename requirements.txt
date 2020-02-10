@@ -1,0 +1,6 @@
+altair
+bokeh
+dfply
+numpy
+pandas
+vega_datasets
